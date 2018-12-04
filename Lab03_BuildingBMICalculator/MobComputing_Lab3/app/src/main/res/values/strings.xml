@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobComputing_Lab3</string>
+    <string name="BMI_textView">BMI</string>
+    <string name="WeightHint">Enter your Weight in Kg</string>
+    <string name="HeightHint">Enter your Height in m</string>
+    <string name="CalcBtn">Calculate</string>
+    <string name="YOUR_BMI">YOUR BMI</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobComputingLab4</string>
+    <string name="StartServiceBtnText">Start Service</string>
+    <string name="StopServiceBtnText">Stop Service</string>
+</resources>

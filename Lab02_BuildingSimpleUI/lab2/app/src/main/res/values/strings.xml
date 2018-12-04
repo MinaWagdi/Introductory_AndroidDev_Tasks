@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="CairoBtn">Cairo</string>
+    <string name="AlexBtn">Alexandria</string>
+    <string name="AswanBtn">Aswan</string>
+    <string name="cairo_info">Cairo is the capital and largest city of Egypt. The city \'s metropolitan area is the largest in the Middle East and the Arab world, and the 15th-largest in the world, and is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area.</string>
+    <string name="alex_info">Alexandria is the second largest city and a major economic centre in Egypt, extending about 32 km (20 mi) along the coast of the Mediterranean Sea in the north central part of the country.</string>
+    <string name="aswan_info">Aswan is a city in the south of Egypt, the capital of the Aswan Governorate. Aswan is a busy market and tourist centre located just north of the Aswan Dams on the east bank of the Nile at the first cataract.</string>
+
+
+
+</resources>

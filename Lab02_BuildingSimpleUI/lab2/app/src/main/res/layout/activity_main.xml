@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/CairoBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showCairoInfo"
+        android:text="@string/CairoBtn" />
+
+    <Button
+        android:id="@+id/AlexBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showAlexInfo"
+        android:text="@string/AlexBtn" />
+
+    <Button
+        android:id="@+id/AswanBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="showAswanInfo"
+        android:text="@string/AswanBtn" />
+
+    <TextView
+        android:id="@+id/info_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
