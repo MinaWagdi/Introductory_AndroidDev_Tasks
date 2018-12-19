@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CSE 437 - Quiz</string>
+    <string-array name="orders">
+        <item>Order #19872345</item>
+        <item>Order #17637835</item>
+        <item>Order #26536544</item>
+        <item>Order #43786475</item>
+        <item>Order #51767422</item>
+    </string-array>
+    <string-array name="order_details">
+        <item>You ordered USB type C to Type A adapter.</item>
+        <item>You ordered MacBook Pro 2017 (i5 2.3 ghz/8gb/256).</item>
+        <item>You ordered LG 32 inch LED SmartTV (32LJ570U).</item>
+        <item>You ordered Bose QuietComfort 35 (Series II) Wireless Headphones.</item>
+        <item>You ordered FX Audio DAC-X6 24BIT/192 Optical/Coaxial/USB Digital Audio Amplifier.</item>
+    </string-array>
+    <string-array name="order_arrivalDate">
+        <item>22/12/2018</item>
+        <item>30/08/2018</item>
+        <item>02/01/2018</item>
+        <item>05/08/2017</item>
+        <item>19/05/2017</item>
+    </string-array>
+</resources>
